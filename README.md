@@ -5,10 +5,11 @@ I'm a researcher and developer specializing in Machine Learning, specifically ti
 Most repositories here are complementary to my research papers or part of my ongoing work in building more robust and automated models for time series and data streams. 
 If that interests you, let's get in touch and collaborate!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vcerqueira&label=Profile%20views&color=0e75b6&style=flat" alt="vcerqueira" /> </p>
+
 
 
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vcerqueira&label=Profile%20views&color=0e75b6&style=flat" alt="vcerqueira" /> </p>
 **vcerqueira/vcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
