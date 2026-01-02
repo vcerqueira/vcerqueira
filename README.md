@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there, welcome! 👋
 
 I'm a researcher and developer specializing in Machine Learning, specifically time series and data streams.
 
