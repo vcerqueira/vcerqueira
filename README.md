@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 <h3 align="left">Other stuff I'm doing:</h3>
 
-<a href="[[https://git-scm.com/]()](https://linktr.ee/vcerq)" target="_blank" rel="noreferrer">
+<a href="https://linktr.ee/vcerq" target="_blank" rel="noreferrer">
